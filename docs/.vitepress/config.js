@@ -157,7 +157,7 @@ export default defineConfig({
         ],
 
         footer: {
-          // message: '<a href="/service">用户协议</a> ｜ <a href="/privacy">隐私政策</a> ｜ <a href="https://www.gnu.org/licenses/gpl-3.0.html">许可证</a>',
+          message: '<a href="/agreement/user/">用户协议</a> ｜ <a href="/agreement/privacy/">隐私政策</a> ｜ <a href="/agreement/member/">会员服务协议</a>',
           copyright: `Chaterm.cn 版权所有 © ${new Date().getFullYear()} <br> <a href="https://beian.miit.gov.cn/#/Integrated/index">沪ICP备18014493号-11</a>  <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010602009365">沪公网安备31010602009365号</a>`
         },
         socialLinks: [

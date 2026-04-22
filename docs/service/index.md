@@ -2,6 +2,15 @@
 layout: home
 sidebar: false
 ---
+
+> [!IMPORTANT]
+> 本页面已迁移为历史版本（英文条款）。
+>
+> 当前生效中文协议请访问：
+> - [用户协议](/agreement/user/)
+> - [隐私政策](/agreement/privacy/)
+> - [会员服务协议](/agreement/member/)
+
 <h2>Terms of Service</h2>
 
 Welcome to use Chaterm, which is provided by INTSIG PTE. LTD. (collectively, “we”)The following terms and conditions (hereinafter referred to as this "Agreement") constitute a valid, legally binding agreement made between you and us. This Agreement stipulates your legal rights and responsibilities when you use our websites and applications(collectively, “Our Services”), so please review this Agreement carefully before you use Our Services.
